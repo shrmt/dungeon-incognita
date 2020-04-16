@@ -3,7 +3,6 @@
 public class GameStarter : MonoBehaviour
 {
     public static Dungeon Dungeon;
-    public static int LevelIndex = -1;
 
     [SerializeField] private GameView view;
 
