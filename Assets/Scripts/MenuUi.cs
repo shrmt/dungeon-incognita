@@ -30,6 +30,6 @@ public class MenuUi : MonoBehaviour
 
     public void OpenGameUrl()
     {
-        Application.OpenURL("https://random-villain.itch.io");
+        Application.OpenURL("https://random-villain.itch.io/dungeon-incognita/comments");
     }
 }

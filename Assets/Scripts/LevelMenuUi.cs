@@ -32,6 +32,7 @@ public class LevelMenuUi : MonoBehaviour
                 l5_3
             ),
         };
+        GameStarter.LevelIndex = 1;
 
         GoToGame();
     }
@@ -71,6 +72,7 @@ public class LevelMenuUi : MonoBehaviour
                 l7_1
             ),
         };
+        GameStarter.LevelIndex = 2;
 
         GoToGame();
     }
@@ -107,6 +109,7 @@ public class LevelMenuUi : MonoBehaviour
                 l6_2
             ),
         };
+        GameStarter.LevelIndex = 3;
 
         GoToGame();
     }
@@ -143,6 +146,7 @@ public class LevelMenuUi : MonoBehaviour
                 l6_1, l6_2
             ),
         };
+        GameStarter.LevelIndex = 4;
 
         GoToGame();
     }
